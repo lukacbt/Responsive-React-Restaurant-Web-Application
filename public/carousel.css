@@ -1,0 +1,59 @@
+@media screen and (max-width: 635px){
+    #carousel{
+        margin-top: 85px !important;
+        max-width: 600px !important;
+        width: 100% !important;
+    }
+    #post{
+        font-size: 130px !important;
+    }
+}
+
+#carousel{
+    margin-top: 70px;
+    text-align: center;
+    background-image: url('https://i.imgur.com/Mk6nX31.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    padding: 220px 0 150px 0;
+
+}
+
+#svaki{
+    letter-spacing: 1px;
+    font-family: 'Arapey', serif;
+    font-size: 20px;
+    color: #161616;
+    font-weight: 500;
+
+}
+
+#post{
+    font-size: 150px;
+    font-family: 'Merienda One', cursive;
+    line-height: 160px;
+    color: #e4c49c;
+}
+
+#gost{
+    font-size: 18px;
+    font-family: 'Arapey', serif;
+    color: #4b4b4b;
+    font-weight: bold;
+    line-height: 100px;
+}
+
+#vise{
+    color: black;
+    font-family: 'Arapey', serif;
+    font-weight: bold;
+    font-size: 26px;
+    letter-spacing: 1px;
+    line-height: 0px;
+    text-decoration: none;
+}
+
+#vise:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,94 @@
+@media screen and (max-width: 635px){
+    #menu{
+        max-width: 580px !important;
+    }
+    #jelovnik{
+        font-size: 75px !important;
+    }
+    .jela{
+        padding: 0 20px !important;
+    }
+    #navbarUl{
+        margin-left: -40px;
+    }
+}
+
+#menu{
+    margin: 0px auto;
+    max-width: 900px;
+    width: 98%;
+    padding-top: 80px;
+}
+
+#jelovnik{
+    text-align: left;
+    font-size: 80px;
+    font-family: 'Black Ops One', cursive;
+    line-height: 0px;
+    color: #e4c49c;
+}
+
+#margine{
+    padding: 0 20px;
+}
+
+.menuNavbar{
+    display: inline-block;
+    padding: 4px 8px;
+    margin: 0 1px;
+    color: #4b4b4b;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px solid white;
+}
+
+.menuNavbar:hover{
+    border: 1px black solid;
+    cursor: pointer;
+}
+
+.jela{
+    margin: 100px auto -40px auto;
+    padding: 0 80px;
+}
+
+.naziv{
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+    line-height: 50px;
+    margin: 0;
+}
+
+.opis{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    font-family: 'Arapey', serif;
+    margin: 10px 0 0 0;
+}
+
+.cijena{
+    line-height: 110px;
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+    margin: 0 0 20px 0;
+}
+
+.line{
+    height: 1px;
+    border-top: 1px solid black;
+}
+
+.osoba{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    font-family: 'Arapey', serif;
+    margin: 10px 0 -5px 0;
+}
+

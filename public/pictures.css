@@ -1,0 +1,15 @@
+@media screen and (max-width: 635px){
+    #pictures{
+        padding-top: 40px !important;
+    }
+}
+
+#pictures{
+    text-align: center;
+    padding-top: 80px;
+}
+
+#pictures img{
+    max-width: 950px;
+    width: 92%;
+}

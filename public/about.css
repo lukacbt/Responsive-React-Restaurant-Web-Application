@@ -1,0 +1,28 @@
+#aboutUs{
+    max-width: 600px;
+    width: 100%;
+    margin: 0px auto;
+    padding-top: 80px;
+}
+
+#us{
+    text-align: left;
+    font-size: 80px;
+    font-family: 'Black Ops One', cursive;
+    line-height: 120px;
+    color: #e4c49c;
+}
+
+.bold{
+    font-weight: bold;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 18px;
+}
+
+#about p{
+    line-height: 28px;
+    font-size: 20px;
+    padding: 0 20px;
+    font-family: 'Arapey', serif;
+    color: black;
+}

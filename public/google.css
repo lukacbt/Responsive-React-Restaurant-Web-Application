@@ -1,0 +1,12 @@
+@media screen and (max-width: 635px){
+    #googleKarta{
+        height: 400px !important;
+    }
+}
+
+#googleKarta{
+    margin-top: 100px;
+    width: 100%;
+    height: 700px;
+    border: 0;
+}

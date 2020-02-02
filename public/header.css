@@ -1,0 +1,81 @@
+@media screen and (max-width:635px){
+    #head{
+        height: 85px !important;
+        text-align: center !important;
+    }
+    .leftHeader{
+        float: none !important;
+        text-align: center !important;
+        margin: 8px 0 0 0 !important;
+    }
+    .rightHeader{
+        float: none !important;
+        max-width: 635px !important;
+        width: 100%;
+        margin-top: -15px;
+    }
+    .navbar{
+        text-align: center !important;
+    }
+    .navbar li {
+        margin: 0 10px 0 10px !important;
+    }
+}
+
+#body{
+    margin: 0;
+    padding: 0;
+}
+
+#head{
+    height: 70px;
+    background-color: #f7f7f7;
+    box-shadow: 0 4px 2px -2px #f3f3f3;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.leftHeader{
+    float: left;
+    font-weight: bold;
+    font-size: 44px;
+    margin: 8px 0 0 30px;
+    font-family: 'Bebas Neue', helvetica;
+    color: #030706;
+    text-decoration: none;
+}
+
+.leftHeader:hover{
+    cursor: pointer;
+}
+
+.rightHeader{
+    float: right;
+}
+
+.navbar{
+    margin-right: 20px;
+}
+
+.navbar li{
+    display: inline-block;
+    margin: 6px 25px 0 5px;
+    color: #383838;
+    font-weight: bold;
+    font-family: 'Teko', sans-serif;
+    letter-spacing: 2px;
+}
+
+.link{
+    text-decoration: none;
+    color: #383838;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Teko', sans-serif;
+}
+
+.link:hover{
+    cursor: pointer;
+    color: #45c892;
+}
